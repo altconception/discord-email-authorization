@@ -28,4 +28,4 @@ async def on_message(message):
                             return
 
 # Replace the token with your bot's token
-client.run('MTA3Njk2NDI1MDc3OTY2NDQ4Ng.GqMm6K.3YPpxJVOmGYVdta_65-HSTonGVIu485ZiPhWVE')
+client.run('Get your own lol')
